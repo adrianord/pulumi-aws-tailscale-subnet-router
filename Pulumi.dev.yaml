@@ -1,0 +1,8 @@
+config:
+  aws-native:profile: dev
+  aws-native:region: us-west-2
+  aws:profile: dev
+  aws:region: us-west-2
+  tailscale:apiKey:
+    secure: AAABAO2ltUQCmVlC+1gyWf8IItlhHkBYXwpmxlzWp/PfvL13V97nF37j4AefG2MVLWUb79PHA+3ZegD0fjFVa3mjfayj/OVXhNAdUzUaPOjPfbHBT419zQ==
+  tailscale:tailnet: '-'

@@ -1,0 +1,3 @@
+name: pulumi-aws-tailscale-subnet-router
+description: Pulumi variant of aws tailscale subnet router
+runtime: nodejs
